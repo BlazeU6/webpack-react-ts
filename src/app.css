@@ -1,0 +1,10 @@
+#root .small {
+  width: 69px;
+  height: 75px;
+  background: url('assets/imgs/dog.jpg') no-repeat;
+}
+#root .bigImg {
+  width: 232px;
+  height: 154px;
+  background: url('assets/imgs/壁纸.jpeg') no-repeat;
+}
